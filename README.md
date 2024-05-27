@@ -9,13 +9,13 @@ This is an ERC-20 token smart contract deployed on the Ethereum blockchain. This
 - Anti-Whale Measures: Limits the maximum transaction amount to prevent large holders from manipulating the market.
 - Smart Contract Overview:
 # Token Informations
-- Name: UranX (URX)
+- Name: URX
 - Total Supply: 100,000,000,000 URX
 - Decimals: 9
 - Symbol: URX
 
 # Repository Information
-This repository contains the source code for the UranX ERC-20 token smart contract.
+This repository contains the source code for the URX ERC-20 token smart contract.
 
 
 # License
